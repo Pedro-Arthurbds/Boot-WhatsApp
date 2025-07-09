@@ -77,6 +77,10 @@ node index.js
    - Verifique se estão no formato internacional correto (ex: 5511999999999)
    - Confirme que são números válidos no WhatsApp
 
+5. **Dicas Importantes**:
+   - Se travar, delete a pasta wwebjs_auth e tente novamente
+   - No Windows, talvez precise instalar: npm install -g windows-build-tools
+
 ## 📝 Licença
 
 Este projeto é para fins educacionais. Use por sua própria conta e risco.
